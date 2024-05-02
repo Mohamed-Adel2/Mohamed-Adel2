@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Mohamed Adel</h1>
 <h2>💫 About Me:</h2>
-:computer: Passionate Software Engineer with a strong affinity for problem-solving and development. Highly skilled in writing clean code, collaborating with cross-functional teams, and adapting to evolving technologies. I am committed to continuous learning and staying up-to-date.<br><br>🌱 I’m learning and gaining deep knowledge in Java frameworks, especially Spring.<br><br>💬 Feel free to ask me about anything. <br><br>📫 How to reach me: mohamedadelsamir11@gmail.com.
+:computer: Passionate Software Engineer with a strong affinity for problem-solving and development. Highly skilled in writing clean code, collaborating with cross-functional teams, and adapting to evolving technologies. I am committed to continuous learning and staying up-to-date.<br><br>🌱 Currently, I’m learning and gaining deep knowledge in Java frameworks, especially Spring.<br><br>💬 Feel free to ask me about anything. <br><br>📫 How to reach me: mohamedadelsamir11@gmail.com.
 
 
 ## 🌐 Socials:
